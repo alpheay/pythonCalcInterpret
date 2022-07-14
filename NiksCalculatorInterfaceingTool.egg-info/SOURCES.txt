@@ -1,0 +1,10 @@
+LICENCE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+NikCalc/__init__.py
+NiksCalculatorInterfaceingTool.egg-info/PKG-INFO
+NiksCalculatorInterfaceingTool.egg-info/SOURCES.txt
+NiksCalculatorInterfaceingTool.egg-info/dependency_links.txt
+NiksCalculatorInterfaceingTool.egg-info/top_level.txt
